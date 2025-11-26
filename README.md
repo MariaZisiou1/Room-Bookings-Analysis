@@ -10,8 +10,12 @@ It was created to practice real-world Excel skills using a dataset that i built 
 
 ## Skills Practised
 **Data Cleaning**: duplicates removal, data validation,conditional formatting
+
 **Data Transformation**: sorting, filtering, formulas (SUMIFS,COUNT etc.)
+
 **Data Analysis**: pivot tables, calculated columns
+
 **Data Visualization**: pivot charts, dashboards, slicers
+
 **Data Modeling**: simple relationships and calculated fields
 
