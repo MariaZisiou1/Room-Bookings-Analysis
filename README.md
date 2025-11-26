@@ -1,31 +1,17 @@
 ## Rental Rooms Data Analysis (Excel Project)
-Overview
+This project analyzes bookings, guest details, revenues, and expenses rental rooms business.
+It was created to practice real-world Excel skills using a dataset that i built myself while managing my family's business for the summer  season 2025.
 
-This project analyzes bookings, guest details, revenues, and expenses for family-run rental rooms.
-It was created to practice real-world Excel skills using a dataset I collected during a summer season.
+## What's Included
 
-What's Included
+- Custom dataset built from real rental-room data (guestsbookings, revenue, expenses)
+- Interactive Excel dashboard analyzing bookings, revenue, occupancy, and trends
+- Pivot tables, pivot charts, and a basic data model
 
-Raw and cleaned datasets
+## Skills Practised
+**Data Cleaning**: duplicates removal, data validation,conditional formatting
+**Data Transformation**: sorting, filtering, formulas (SUMIFS,COUNT etc.)
+**Data Analysis**: pivot tables, calculated columns
+**Data Visualization**: pivot charts, dashboards, slicers
+**Data Modeling**: simple relationships and calculated fields
 
-Data validation and cleaning steps
-
-Pivot tables and pivot charts
-
-Interactive dashboard with slicers
-
-Basic data model with calculated columns
-
-Skills Practised
-
-Data Cleaning: duplicates removal, validation, formatting
-
-Data Transformation: sorting, filtering, formulas (SUMIFS, COUNTIFS, IF, etc.)
-
-Data Analysis: pivot tables, calculated columns
-
-Data Visualization: pivot charts, dashboards, slicers
-
-Data Modeling: simple relationships and calculated fields
-
-Conditional Formatting for highlighting insights
