@@ -1,6 +1,6 @@
 ## Rental Rooms Data Analysis (Excel Project)
-This project analyzes bookings, guest details, revenues, and expenses rental rooms business.
-It was created to practice real-world Excel skills using a dataset that i built myself while managing my family's business for the summer  season 2025.
+This project analyzes all customers reservations, guest details, revenues and expenses of Cosmos Studios during the summer season 2025.
+It was created to practice real-world Excel skills using a dataset that i built myself while managing my family's business.
 
 ## What's Included
 
