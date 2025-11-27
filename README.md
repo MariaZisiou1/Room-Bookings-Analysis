@@ -13,9 +13,9 @@ It was created to practice real-world Excel skills using a dataset that i built 
 
 **Data Transformation**: sorting, filtering, formulas (SUMIFS,COUNT etc.)
 
-**Data Analysis**: pivot tables, calculated columns
+**Data Analysis**: pivot tables, calculated fields
 
-**Data Visualization**: pivot charts, dashboards, slicers
+**Data Visualization**: pivot charts, dashboards,slicers
 
-**Data Modeling**: simple relationships and calculated fields
+**Data Modeling**: simple relationships and calculated columns
 
