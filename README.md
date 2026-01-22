@@ -30,7 +30,7 @@ The dashboard consists of **four pages**:
 1. **Executive Overview** – Key metrics like total revenue, bookings, profit, plus **revenue and booking status trends**.  
 2. **Guest Insights** – Insights into **age groups**, **returning vs new guests**, and **guest booking distribution by country**.  
 3. **Booking Analysis** – Insights into **bookings by guest type**, **top countries**, **nights stayed**, and **average price per night**.  
-4. **Expenses Overview** – Breakdown of **monthly expenses**, key **cost categories** (e.g., taxes, salary, maintenance), and trends over time.  
+4. **Expenses Overview** – Breakdown of **monthly expenses**,  **key cost categories** (e.g., taxes, salary, maintenance), and trends over time.  
 
 **Highlights**:  
 - Interactive slicers (e.g., by age group)  
@@ -52,7 +52,7 @@ The dashboard consists of **four pages**:
 In the **Power BI Dashboard**, the following charts include **tooltips** for deeper insights:
 
 - **Booking Analysis (Top 3 Countries by Total Nights Stayed)**: Provides insights into the **top 3 countries** with additional information on **average price per night** and **booking count**.  
-- **Booking Analysis (Average Price per Night)**: Shows the ** minimum and maximum price per night** in the tooltip.
+- **Booking Analysis (Average Price per Night)**: Shows the **minimum and maximum price per night** in the tooltip.
 
 ---
 
