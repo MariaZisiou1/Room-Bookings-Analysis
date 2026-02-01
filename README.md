@@ -58,7 +58,8 @@ In the **Power BI Dashboard**, the following charts include **tooltips** for dee
 - **Booking Analysis (Top 3 Countries by Total Nights Stayed)**: Provides insights into the **top 3 countries** with additional information on **average price per night** and **booking count**.  
 - **Booking Analysis (Average Price per Night)**: Shows the **minimum and maximum price per night** in the tooltip.
 
-  <img src="images/tooltip_example1.png" height="250"/>       <img src="images/tooltip_example2.png" height="250"/>
+  <img src="images/tooltip_example1.png" height="250" style="margin-right:20px;"/> 
+  <img src="images/tooltip_example2.png" height="250"/>
 
 ---
 
