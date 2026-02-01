@@ -28,7 +28,7 @@ It was created as a **junior data analyst portfolio project**, combining **Excel
 The dashboard consists of **four pages**:
 
 1. **Executive Overview** – Key metrics like total revenue, bookings, profit, plus **revenue and booking status trends**.  
-  ![Executive Overview](images/executive_overview.png)
+  <img src="images/executive_overview.png" width="800"/>
 2. **Guest Insights** – Insights into **age groups**, **returning vs new guests**, and **guest booking distribution by country**.  
   ![Guest Insights](images/guest_insights.png)
 3. **Booking Analysis** – Insights into **bookings by guest type**, **top countries**, **nights stayed**, and **average price per night**.  
